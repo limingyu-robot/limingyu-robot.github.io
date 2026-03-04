@@ -18,63 +18,78 @@ I am currently a Master's student in the School of Instrument Science and Engine
 * **National Scholarship** (Top 1%), Ministry of Education, China (2025, 2022)
 * **Outstanding Bachelor’s Thesis** (Top 3%), Southeast University (2024)
 * **"Challenge Cup" Grand Prize** (Top 5%), Ministry of Education, China (2023)
-
 ## Selected Projects
 
-<div style="display:flex; align-items:center; margin-bottom:40px;">
+<div style="display:flex; align-items:center; gap:28px; margin-bottom:40px; flex-wrap:wrap;">
 
-<img src="/images/projects/surgical_force.png" width="320">
+<img src="/images/projects/surgical_force.png" width="320" style="border-radius:10px;">
 
-<div style="margin-left:25px;">
+<div style="max-width:520px;">
 
-### Vision–Tactile Fusion for Surgical Force Estimation
+<div style="font-size:22px; font-weight:600;">
+Vision–Tactile Fusion for Surgical Force Estimation
+</div>
 
+<div style="margin-top:6px; font-size:16px;">
 Vision–tactile fusion for estimating multi-contact interaction forces in robot-assisted surgery.
-
 </div>
-
-</div>
-
-
-<div style="display:flex; align-items:center; margin-bottom:40px;">
-
-<img src="/images/projects/prosthesis.png" width="320">
-
-<div style="margin-left:25px;">
-
-### Upper-Limb Prosthesis with Vision–Tactile Feedback
-
-Shared-control prosthetic system enabling robust grasping in daily tasks.
 
 </div>
 
 </div>
 
 
-<div style="display:flex; align-items:center; margin-bottom:40px;">
+<div style="display:flex; align-items:center; gap:28px; margin-bottom:40px; flex-wrap:wrap;">
 
-<img src="/images/projects/grasp.png" width="320">
+<img src="/images/projects/prosthesis.png" width="320" style="border-radius:10px;">
 
-<div style="margin-left:25px;">
+<div style="max-width:520px;">
 
-### Visual–Tactile Fusion for Robotic Grasping
+<div style="font-size:22px; font-weight:600;">
+Upper-Limb Prosthesis with Vision–Tactile Feedback
+</div>
 
+<div style="margin-top:6px; font-size:16px;">
+Shared-control prosthetic system enabling robust grasping in daily living tasks.
+</div>
+
+</div>
+
+</div>
+
+
+<div style="display:flex; align-items:center; gap:28px; margin-bottom:40px; flex-wrap:wrap;">
+
+<img src="/images/projects/grasp.png" width="320" style="border-radius:10px;">
+
+<div style="max-width:520px;">
+
+<div style="font-size:22px; font-weight:600;">
+Visual–Tactile Fusion for Robotic Grasping
+</div>
+
+<div style="margin-top:6px; font-size:16px;">
 Sim-to-real grasping pipeline combining tactile sensing and vision.
-
 </div>
 
 </div>
 
+</div>
 
-<div style="display:flex; align-items:center; margin-bottom:40px;">
 
-<img src="/images/projects/regolith.png" width="320">
+<div style="display:flex; align-items:center; gap:28px; margin-bottom:40px; flex-wrap:wrap;">
 
-<div style="margin-left:25px;">
+<img src="/images/projects/regolith.png" width="320" style="border-radius:10px;">
 
-### Planetary Regolith Sampling Robot
+<div style="max-width:520px;">
 
+<div style="font-size:22px; font-weight:600;">
+Planetary Regolith Sampling Robot
+</div>
+
+<div style="margin-top:6px; font-size:16px;">
 Bayesian optimization based design of a robotic granular manipulation system.
+</div>
 
 </div>
 
