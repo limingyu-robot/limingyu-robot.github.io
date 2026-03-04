@@ -11,7 +11,7 @@ url: "https://xmaww.github.io"
 # Author (作者信息 - 会显示在左侧边栏)
 # ==============================================================================
 author:
-  name: "Mingyu Li" # 
+  name: "Mingyu Li" 
   avatar: "/images/Passport.jpg"
   bio: "Master's student at Southeast University focusing on robotic perception, vision-tactile fusion, dexterous manipulation, and reinforcement learning." 
   location: "Nanjing, China"
